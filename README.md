@@ -53,7 +53,7 @@ const minhaJornada = {
 
 ### 🗓️ Semana 3 de 8 - Em andamento!
 
-![Progress](https://progress-bar.dev/37/?title=Progresso&width=500&color=2E9EF7)
+![Progress](https://img.shields.io/badge/Progresso-37%25-2E9EF7)
 
 </div>
 
@@ -104,7 +104,6 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 - 🎯 **Foco em soluções**: Anos resolvendo problemas reais de clientes
 - 💬 **Comunicação eficaz**: Sei explicar conceitos técnicos de forma simples
 - 📊 **Visão de negócio**: Entendo o impacto do código no resultado final
-- 🤝 **Trabalho em equipe**: Gerenciei pessoas e processos
 - 💪 **Resiliência**: Empreender ensina a persistir mesmo nas dificuldades
 - ⏰ **Gestão de tempo**: Conciliando estudos com negócio próprio
 
