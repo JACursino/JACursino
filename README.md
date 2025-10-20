@@ -152,8 +152,8 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 ### 🎮 Jogo do Número Secreto
 **Meu primeiro projeto completo com JavaScript!**
 
-[![Repo](https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino/jogo-numero-secreto)
-[![Demo](https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://JACursino.github.io/jogo-numero-secreto)
+[![Repo](https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino/jogo-do-numero-secreto.git)
+[![Demo](https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https:www.jogo-rust-mu-63.vercel.app)
 
 Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido durante as primeiras semanas da imersão.
 
@@ -218,7 +218,7 @@ Adoro trocar experiências, especialmente com quem também está em transição 
 **Estou aberto a mentorias, parcerias e oportunidades.**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacursino)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.cm)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12991085141)
 
 </div>
@@ -237,7 +237,7 @@ e provando que é possível recomeçar com 45 anos."*
 
 ![](https://komarev.com/ghpvc/?username=JACursino&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
-⭐️ Feito com coragem, café e muita determinação por [ypsonle](https://github.com/JACursino)
+⭐️ Feito com coragem, café e muita determinação por [JACursino](https://github.com/JACursino)
 
 **"Dos materiais de construção ao código: construindo meu futuro, uma linha por vez! 💻🔨"**
 
