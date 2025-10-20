@@ -3,7 +3,7 @@ Perfil
   
 # 👋 Olá! Eu José Antônio Cursino
 
-### 🔄 Em Transição de Carreira | 45 Anos | Do Varejo para a Tech
+### 🔄 Em Transição de Carreira | Do Varejo para a Tech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacursino/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino)
@@ -39,7 +39,7 @@ const minhaJornada = {
     },
     futuro: {
         objetivo: "Desenvolvedor (Front/Back/Full - descobrindo!)",
-        motivação: "Reinventar minha carreira e abraçar novos desafios",
+        motivação: "Abraçando novos desafios",
         diferencial: "Experiência de vida + paixão renovada por tech"
     }
 };
@@ -56,6 +56,27 @@ const minhaJornada = {
 ![Progress](https://img.shields.io/badge/Progresso-37%25-2E9EF7)
 
 </div>
+
+### ✅ Semanas 1: Curso de Começando em Programação: carreira e primeiros passos
+###                Curso de Lógica de programação: mergulhe em programação com JavaScript
+- [x] Iniciando com JavaScript
+- [x] Condicionais e concatenação
+- [x] Loops e tentativas
+- [x] Boas práticas de programação
+- [x] Desafio
+
+### 🔄 Semana 2: Curso de Lógica de programação: explore funções e listas
+- [x] Interagindo com HTML
+- [x] Funções
+- [x] Reiniciando o jogo
+- [x] Listas
+- [x] Publicando o projeto
+
+### 📅 Semanas 3:Curso de Git e GitHub: compartilhando e colaborando em projetos
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ### ✅ Semanas 1-2: Fundamentos
 - [x] HTML5 - Estrutura e semântica
@@ -137,11 +158,6 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 - [ ] Conseguir primeiro freela ou estágio
 - [ ] Network com 50+ devs
 
-### Longo Prazo (12 meses)
-- [ ] Transição completa para área tech
-- [ ] Primeira vaga CLT como desenvolvedor
-- [ ] Mentorar outros em transição de carreira
-
 ---
 
 ## 💻 Projetos da Imersão
@@ -182,39 +198,18 @@ Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido
 
 ## 🌟 Por Que Fazer Essa Transição aos 45?
 
-Muitos me perguntam isso. Minha resposta é simples:
-
-> **"Se não for agora, quando? A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor época é agora."**
-
 - 🧠 Experiência de vida é um ativo, não um passivo
 - 💡 Tecnologia não tem idade - tem paixão e dedicação
 - 🎓 O aprendizado é para toda a vida
-- 🚀 Quero mostrar que reinvenção é possível em qualquer fase
-- ❤️ Sempre amei tecnologia - agora é hora de voltar para casa
 
 ---
 
-## 💡 Frase que Me Inspira
+## 📫 Vamos conversar?
+
+"Se você curte código, está aprendendo ou quer colaborar, vamos trocar uma ideia! 💡
+Estou aberto a parcerias e novas oportunidades.!"
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-*"Você nunca é velho demais para definir um novo objetivo ou sonhar um novo sonho."*  
-**- C.S. Lewis**
-
-</div>
-
----
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-
-Adoro trocar experiências, especialmente com quem também está em transição de carreira!  
-**Estou aberto a mentorias, parcerias e oportunidades.**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacursino)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.com)
@@ -228,16 +223,11 @@ Adoro trocar experiências, especialmente com quem também está em transição 
   
 ### 🎯 Em Transição, Com Propósito
 
-*"Não estou apenas aprendendo a programar.  
-Estou redescobrindo uma paixão, construindo um futuro  
-e provando que é possível recomeçar com 45 anos."*
+"Do zero ao deploy, cada bug resolvido é uma vitória.
+Não é só sobre código — é sobre transformar ideias em realidade, com paciência e café ☕."
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=JACursino&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
-
-⭐️ Feito com coragem, café e muita determinação por [JACursino](https://github.com/JACursino)
-
-**"Dos materiais de construção ao código: construindo meu futuro, uma linha por vez! 💻🔨"**
 
 </div>
