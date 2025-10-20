@@ -5,7 +5,7 @@ Perfil
 
 ### 🔄 Em Transição de Carreira | 45 Anos | Do Varejo para a Tech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacursino/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.com)
 
@@ -113,12 +113,12 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypsonle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypsonle&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JACursino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACursino&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ypsonle&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JACursino&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -152,8 +152,8 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 ### 🎮 Jogo do Número Secreto
 **Meu primeiro projeto completo com JavaScript!**
 
-[![Repo](https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ypsonle/jogo-numero-secreto)
-[![Demo](https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ypsonle.github.io/jogo-numero-secreto)
+[![Repo](https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino/jogo-numero-secreto)
+[![Demo](https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://JACursino.github.io/jogo-numero-secreto)
 
 Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido durante as primeiras semanas da imersão.
 
@@ -176,7 +176,7 @@ Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ypsonle&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JACursino&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -217,9 +217,9 @@ Muitos me perguntam isso. Minha resposta é simples:
 Adoro trocar experiências, especialmente com quem também está em transição de carreira!  
 **Estou aberto a mentorias, parcerias e oportunidades.**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacursino)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.cm)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12991085141)
 
 </div>
 
@@ -235,9 +235,9 @@ e provando que é possível recomeçar com 45 anos."*
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ypsonle&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
+![](https://komarev.com/ghpvc/?username=JACursino&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
-⭐️ Feito com coragem, café e muita determinação por [ypsonle](https://github.com/ypsonle)
+⭐️ Feito com coragem, café e muita determinação por [ypsonle](https://github.com/JACursino)
 
 **"Dos materiais de construção ao código: construindo meu futuro, uma linha por vez! 💻🔨"**
 
