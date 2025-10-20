@@ -1,15 +1,15 @@
 Perfil
 <div align="center">
   
-# 👋 Olá! Eu José Antônio Cursino
+# 👋 Olá! Eu sou José Antônio Cursino
 
-### 🔄 Em Transição de Carreira | Do Varejo para a Tech
+### 🔄 Minha Jornada Dev | Do Varejo para o Tech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacursino/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jacursino/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/JACursino)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jacursino@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Redescobrindo+a+paixão+por+programar;20+anos+depois%2C+voltando+às+origens;Nunca+é+tarde+para+recomeçar!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Redescobrindo+a+paixão+por+programar;26+anos+depois%2C+voltando+às+origens;Nunca+é+tarde+para+recomeçar!" alt="Typing SVG" />
 
 </div>
 
@@ -17,22 +17,20 @@ Perfil
 
 ## 🚀 Minha História
 
-Aos 45 anos, estou fazendo uma transição de carreira que muitos diriam ser "corajosa" - e eu digo que é **necessária**. 
+Minha base técnica foi estabelecida há **26 anos**, com a formação em **Técnico em Processamento de Dados**. Embora a vida tenha me conduzido por caminhos diferentes, hoje administro uma loja de materiais elétricos e hidráulicos em São José dos Campos. Essa jornada me proporcionou ampla experiência em **gestão, atendimento ao cliente, resolução de problemas práticos e empreendedorismo**.
 
-Há 20 anos, me formei como **Técnico em Processamento de Dados**. A vida me levou por outros caminhos: construí e administro uma loja de materiais de construção, ferramentas elétricas e hidráulicas em São José dos Campos. Aprendi sobre gestão, atendimento ao cliente, resolução de problemas práticos e empreendedorismo.
-
-Mas a tecnologia sempre esteve no meu radar. Agora, estou **reconectando com minhas raízes tech** e descobrindo um universo completamente transformado - e fascinante!
+A tecnologia, no entanto, sempre esteve no meu radar. Agora, estou **reconectando com minhas raízes tech** e redescobrindo um universo completamente transformado — e fascinante!
 
 ```javascript
 const minhaJornada = {
     passado: {
         formação: "Técnico em Processamento de Dados (2005)",
-        experiência: "20 anos no varejo e empreendedorismo",
+        experiência: "18 anos no varejo e empreendedorismo",
         aprendizados: ["Gestão", "Atendimento", "Resolução de problemas", "Vendas"]
     },
     presente: {
         idade: 45,
-        semanas_estudando: 3,
+        semanas_estudando: 4,
         programa: "Imersão Digital - 8 semanas",
         estudando: ["HTML", "CSS", "JavaScript", "Dart"],
         dedicação: "Conciliando loja + estudos"
@@ -57,43 +55,15 @@ const minhaJornada = {
 
 </div>
 
-### ✅ Semanas 1: Curso de Começando em Programação: carreira e primeiros passos
-###                Curso de Lógica de programação: mergulhe em programação com JavaScript
-- [x] Iniciando com JavaScript
-- [x] Condicionais e concatenação
-- [x] Loops e tentativas
-- [x] Boas práticas de programação
-- [x] Desafio
-
-### 🔄 Semana 2: Curso de Lógica de programação: explore funções e listas
-- [x] Interagindo com HTML
-- [x] Funções
-- [x] Reiniciando o jogo
-- [x] Listas
-- [x] Publicando o projeto
-
-### 📅 Semanas 3:Curso de Git e GitHub: compartilhando e colaborando em projetos
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-### ✅ Semanas 1-2: Fundamentos
-- [x] HTML5 - Estrutura e semântica
-- [x] CSS3 - Estilização e layouts
-- [x] Primeiros projetos práticos
-
-### 🔄 Semana 3: Atual
-- [ ] JavaScript - Lógica e interatividade
-- [ ] Manipulação do DOM
-- [ ] Eventos e funções
-
-### 📅 Semanas 4-8: Próximos Passos
-- [ ] JavaScript avançado
-- [ ] Introdução ao Dart
-- [ ] Projetos integradores
-- [ ] Definir especialização (Front/Back/Full)
-
+### ✅ Semana 1: Curso de Começando em Programação: carreira e primeiros passos
+### ✅ Semana 2: Curso de Lógica de programação: explore funções e listas
+### ✅ Semana 3: Curso de Git e GitHub: compartilhando e colaborando em projetos
+### ⚠️ Semana 4: Curso de Lógica de programação: praticando com desafios
+### ⏳ Semana 5: Curso de Dart: trabalhando com a sintaxe e configuração de projeto
+### ⏳ Semana 6: Curso de Dart: trabalhando com orientação a objetos
+### ⏳ Semana 7: Curso de Dart: dominando assincronismo e criando comunicação com APIs
+### ⏳ Semana 8: Curso de Dart: lidando com erros, exceções e null safety
+      
 ---
 
 ## 🛠️ Tecnologias em Aprendizado
@@ -101,18 +71,18 @@ const minhaJornada = {
 <div align="center">
 
 ### Dominando Agora
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### Em Breve
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+
 
 ### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
 
 </div>
 
@@ -130,23 +100,10 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JACursino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACursino&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JACursino&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 Objetivos para 2025
 
 ### Curto Prazo (3 meses)
-- [x] Iniciar Imersão Digital (feito! 🎉)
+- [x] Iniciar Imersão Digital (feito!) ✅
 - [ ] Completar as 8 semanas com excelência
 - [ ] Criar 5 projetos práticos
 - [ ] Definir minha área de atuação (Front/Back/Full)
