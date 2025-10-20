@@ -45,11 +45,12 @@ const minhaJornada = {
 
 ---
 
-## 📚 Imersão Digital - Progresso das 8 Semanas
-
+## 📚 Santander Imersão Digital em parceria com a Alura - Curso Gratuito em Tecnologia
+      Dados com IA, DevOps, UX e Mobile 100% online
+      
 <div align="center">
 
-### 🗓️ Semana 3 de 8 - Em andamento!
+### 🗓️ Semana 4 de 8 - Em andamento!
 
 ![Progress](https://img.shields.io/badge/Progresso-37%25-2E9EF7)
 
@@ -141,7 +142,6 @@ Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido
 📝 **Calculadora de Orçamentos** - JavaScript + lógica de negócio  
 🎨 **Portfolio Pessoal** - Reunindo todos os projetos da imersão  
 
-*"Cada projeto é um tijolo na construção da minha nova carreira!"*
 
 ---
 
