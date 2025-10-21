@@ -126,10 +126,12 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 ### 🎮 Jogo do Número Secreto
 **Meu primeiro projeto completo com JavaScript!**
 
-[![Repo](https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino/jogo-do-numero-secreto.git)
+<a href="https://github.com/JACursino/jogo-do-numero-secreto.git" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+</a>
 
 <a href="https://jogo-rust-mu-63.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Vercel Demo">
+  <img src="https://img.shields.io/badge/Jogue_Agora!-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Jogue Agora">
 </a>
 
 Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido durante as primeiras semanas da imersão.
@@ -176,19 +178,13 @@ Estou aberto a parcerias e novas oportunidades.!"
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacursino@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12991085141)
 
+
 </div>
 
 ---
 
 <div align="center">
-  
-### 🎯 Em Transição, Com Propósito
 
-"Do zero ao deploy, cada bug resolvido é uma vitória.
-Não é só sobre código — é sobre transformar ideias em realidade, com paciência e café ☕."
 
----
-
-![](https://komarev.com/ghpvc/?username=JACursino&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
 </div>
