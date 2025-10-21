@@ -185,6 +185,7 @@ Estou aberto a parcerias e novas oportunidades.!"
 
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=JACursino1&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL&random=1)
 
 
 </div>
