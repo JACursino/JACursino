@@ -127,7 +127,7 @@ Minha experiência como empreendedor e comerciante não foi tempo perdido - foi 
 **Meu primeiro projeto completo com JavaScript!**
 
 [![Repo](https://img.shields.io/badge/Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JACursino/jogo-do-numero-secreto.git)
-[![VercelDemo](https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](jogo-rust-mu-63.vercel.app)
+[![VercelDemo](https://img.shields.io/badge/Ver_Demo-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jogo-rust-mu-63.vercel.app)
 
 Jogo interativo onde o usuário tenta adivinhar um número secreto. Desenvolvido durante as primeiras semanas da imersão.
 
