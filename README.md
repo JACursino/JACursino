@@ -17,14 +17,14 @@ Perfil
 
 ## 🚀 Minha História
 
-Minha base técnica foi estabelecida há **26 anos**, com a formação em **Técnico em Processamento de Dados**. Embora a vida tenha me conduzido por caminhos diferentes, hoje administro uma loja de materiais elétricos e hidráulicos em São José dos Campos. Essa jornada me proporcionou ampla experiência em **gestão, atendimento ao cliente, resolução de problemas práticos e empreendedorismo**.
+Minha trajetória técnica teve início **há 26 anos**, com a formação em **Técnico em Processamento de Dados**. Ao longo do tempo, segui por outros caminhos profissionais e, atualmente, atuo no varejo, administrando uma loja de materiais elétricos e hidráulicos em minha cidade. Essa experiência consolidou competências em **gestão, atendimento ao cliente, resolução de desafios práticos e empreendedorismo**, fortalecendo minha visão analítica e capacidade de adaptação.
 
-A tecnologia, no entanto, sempre esteve no meu radar. Agora, estou **reconectando com minhas raízes tech** e redescobrindo um universo completamente transformado — e fascinante!
+A tecnologia, no entanto, *sempre esteve presente no meu radar**. Hoje, estou me reconectando às minhas raízes tecnológicas e redescobrindo um universo completamente transformado — e **fascinante**.
 
 ```javascript
 const minhaJornada = {
     passado: {
-        formação: "Técnico em Processamento de Dados (2005)",
+        formação: "Técnico em Processamento de Dados)",
         experiência: "18 anos no varejo e empreendedorismo",
         aprendizados: ["Gestão", "Atendimento", "Resolução de problemas", "Vendas"]
     },
@@ -71,19 +71,20 @@ const minhaJornada = {
 
 <div align="center">
 
-### Dominando Agora
+### Estudando Atualmente
+💡 *Aprofundando fundamentos e aplicando em pequenos projetos:*
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### Em Breve
+📚 *Explorando novas tecnologias e frameworks:*
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
 
-
 ### Ferramentas
+🧰 *Utilitários e ambiente de desenvolvimento diário:*
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
-
 
 </div>
 
